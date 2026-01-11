@@ -1,1 +1,2 @@
 DOMAIN,nexusmods.com
+DOMAIN,opencode.ai
