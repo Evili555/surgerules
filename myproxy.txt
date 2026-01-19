@@ -2,3 +2,4 @@ DOMAIN,nexusmods.com
 DOMAIN,opencode.ai
 DOMAIN,open-vsx.org
 DOMAIN,claude.com
+DOMAIN,claude.ai
