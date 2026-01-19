@@ -1,2 +1,3 @@
 DOMAIN,nexusmods.com
 DOMAIN,opencode.ai
+DOMAIN,open-vsx.org
