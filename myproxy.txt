@@ -4,3 +4,4 @@ DOMAIN,open-vsx.org
 DOMAIN,claude.com
 DOMAIN,claude.ai
 DOMAIN,youtube.com
+DOMAIN,nssurge.com
