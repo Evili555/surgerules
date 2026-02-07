@@ -5,3 +5,4 @@ DOMAIN,claude.com
 DOMAIN,claude.ai
 DOMAIN,youtube.com
 DOMAIN,nssurge.com
+DOMAIN,t-mobile.com
