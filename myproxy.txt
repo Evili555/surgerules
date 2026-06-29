@@ -6,3 +6,4 @@ DOMAIN,claude.ai
 DOMAIN,youtube.com
 DOMAIN,nssurge.com
 DOMAIN,t-mobile.com
+DOMAIN,debian.org
