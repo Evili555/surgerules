@@ -1,1 +1,2 @@
 1|DOMAIN,eastmoney.com
+2|DOMAIN,opencode.ai

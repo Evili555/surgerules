@@ -1,5 +1,4 @@
 1|DOMAIN,nexusmods.com
-2|DOMAIN,opencode.ai
 3|DOMAIN,open-vsx.org
 4|DOMAIN,claude.com
 5|DOMAIN,claude.ai
