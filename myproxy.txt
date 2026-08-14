@@ -8,3 +8,4 @@
 8|DOMAIN,t-mobile.com
 9|9|DOMAIN,debian.org
 10|10|DOMAIN,pnpm.io
+11|11|DOMAIN,pytorch.org
